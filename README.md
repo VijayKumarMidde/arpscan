@@ -1,4 +1,4 @@
-# ARP-SCAN
+# arp-scan
 arp-scan.py is a simple network reconnaissance tool developed using Scapy framework.
 In the script, I do a simple arp-ping to get the alive hosts list in a subnet, and 
 print the MAC address and Vendor information of the IP
